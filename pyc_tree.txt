@@ -1,0 +1,54 @@
+
+
+/pyc 
+-pyc_main.py
+-pyc_info_win.py 
+-pyc_info_msg.py 
+-pyc_err_msg.py 
+-pyc_read.py 
+-pyc_projs_win.py
+-pyc_readme_win.py 
+-pyc_settings_win.py 
+-pyc_snippets_win.py 
+-pyc_image_win.py 
+-pyc_pf_win.py 
+-pyc_log_win.py 
+-pyc_files.py
+-pyc_projs.py
+-pyc_folders.py
+-pyc_imgs.py
+-pyc_settings.py
+-pyc_snippets.py
+-pyc_search.py
+-pyc_adtional_function.py #aici vor fi functii ce sunt necesare in mai multe fisiere dar nus asa importante sa aiba un fisier dedicat.
+-pyc_delete.py
+-pyc_global_var.py #aici sunt variabile globale precum cele ce le acceseaza setari pentru a fi modicate de ascundere a titlurilor sau anumitor elemente
+-pyc_find.py
+-pyc_count.py  #folosit pentru numararea cuvintelor din fisier sau a fisierelor din foldere/proiecte , acesta va avea o strucutra numite pyc_count(function,location)
+-pyc_detect.py #folosit pentru detectarea limbi a fisierului 
+-pyc_tester.py #acesta apeleaza toate fisierele si functile pentru a le testa si apoi afiseaza un output cu rezultatele / functie doar pentru developeri
+-pyc_metadata.py
+-pyc_output_win.py
+-pyc_updates_win.py
+-pyc_tester_win.py
+-pyc_read_docs.py 
+-pyc_toSolve_win.py
+-pyc_toSolve.py 
+ /projs 
+   /Sample_project
+     /src 
+       -sample.py
+       -sample_txt.txt
+       -sample_img.png
+     /docs 
+       -error_log_jsn.jsn
+       -toSolve_jsn.json
+     metadata.json 
+ /pycUser 
+  -pyc_info.txt 
+  -pyc_snippets_jsn.json 
+  -pyc_settings_jsn.json
+  -pyc_readme.txt
+  -pyc_settings_jsn.json 
+  -pyc_howToUse_jsn.json
+  -pyc_updates.txt

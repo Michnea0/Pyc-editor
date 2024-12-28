@@ -1,0 +1,14 @@
+Pyc editor 1.0 (Atos)
+
+----------------------
+Informati generale:
+
+    Python Code Editor este un mini code editor simplu cu un project manager integrat.
+
+    Pyc are si un sistem de erori,mesaje in caz de orice eroare interna poti regla chiar tu problema prin README pyc ce oferea informatile de tip source code si informati pentru fieacre parte din cod pentru a intelege cum functioneaza acest code editor simplu.
+
+    In caz de orice eroare va rugam raportati eroarea in pyc isuse.
+
+Build:
+
+    (Atos) - Versiune a programului in stare de dezvoltare si cu posibile erori sau probleme de tip deschidere.
